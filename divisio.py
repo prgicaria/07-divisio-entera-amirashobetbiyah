@@ -1,7 +1,7 @@
-divident = int(input("Introdueix el divident:"))
-divisor = int(input("Introdueix el divisor:"))
-quocient = divident // divisor
-residu = divident % divisor
-print(f"divisió: {divident} / {divisor}")
-print(f"quocient: {quocient}")
-print(f"residu: {residu}")
+Divident = int(input("Introdueix el Divident:"))
+Divisor = int(input("Introdueix el Divisor:"))
+Quocient = Divident // Divisor
+Residu = Divident % Divisor
+print(f"Divisió: {Divident} / {Divisor}")
+print(f"Quocient: {Quocient}")
+print(f"Residu: {Residu}")
